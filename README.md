@@ -20,9 +20,5 @@
 
 </p>
 
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-
 ### 😜Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
