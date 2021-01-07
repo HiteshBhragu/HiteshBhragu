@@ -11,7 +11,7 @@
 ### 🤵 About Me:
 - 🏦 I'm Pursuing B.Tech from SDBCT.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily ```.c```,```.cpp```,```.java```,``` .py```, ```.sql```
+- 🤔 I use daily ```.c```,```.cpp```,```.java```,```.py```, ```.sql```
 - 🌱 I’m currently learning Python and Data Science
 - 💬 Talk to me about android, python (both of these are not any kind of insect or animals) and silicon valley
 - 😄 Pronouns: He/Him
