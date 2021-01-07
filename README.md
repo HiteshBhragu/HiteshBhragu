@@ -17,8 +17,12 @@
 - 😄 Pronouns: He/Him
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
-
 </p>
+
+### 🐱My Github stats:
+![Hitesh Bhragu github stats](https://github-readme-stats.vercel.app/api?username=HiteshBhragu&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+
+
 
 ### 😜Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
